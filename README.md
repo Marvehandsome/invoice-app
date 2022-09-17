@@ -1,4 +1,4 @@
-# ayagigs-admin
+# invoice-app
 
 ## Project setup
 ```
